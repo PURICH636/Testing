@@ -1,4 +1,3 @@
 # Testing
 
-Program.cs 
-    - Grade calculator program  with Constructor and Overloading methods 
+Grade calculator.cs - Grade calculator program  with Constructor and Overloading methods 
